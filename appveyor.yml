@@ -5,7 +5,7 @@ environment:
   github_access_token:
     secure: "b605ffb95c28482d38828e66629a47608860fb88"
   github_email:
-    secure: "wjf563745940@163.com"
+    secure: "OJ0YajfHFD0CsYfUZG6xu0viNqev56yjRtD0pIFej3I="
 
 # Only run on master branch
 branches:
