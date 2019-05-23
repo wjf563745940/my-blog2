@@ -3,7 +3,7 @@ environment:
   nodejs_version: "8"
   # Encrypt sensitive data (https://ci.appveyor.com/tools/encrypt)
   github_access_token:
-    secure: b605ffb95c28482d38828e66629a47608860fb88
+    secure: UQpZFBfxoWjCYyOMeNfZPK+Jl+k4oAL+2K9tv4RwNH8Awai9hzWA+k447Ffzv+z+
   github_email:
     secure: ff+vq0UmAYoZmAI880dZL9BM/xopt8ciynR7/jWViJQ=
 
