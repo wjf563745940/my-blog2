@@ -25,7 +25,7 @@ install:
 
   - git config --global user.email $env:github_email
   # deploy to GitHub pages
-  - npm run deploy
+  
 
 # No tests to run
 test: off
